@@ -33,5 +33,5 @@ Instrucciones de uso:
 Introduce nombres en la caja llamada "Escribe un nombre"
 Haz clic en "Añadir" para incluir el nombre en la lista
 Añade al menos dos nombres para activar el sorteo
-Haz clic en "Sortear nombre" para recibir un nombre al azar
-¡Puedes usarlo las veces que desee
+Haz clic en "Sortear nombre" para recibir un nombre al azar.
+Se puede utilizar las veces que se desee.
